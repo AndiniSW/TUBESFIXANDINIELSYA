@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1490792200 source:f:\semester 2\struktur data\tubes\tubes fix bgt\main.cpp
+	<iostream>
+	"aplikasi.h"
+
+1490791759 source:f:\semester 2\struktur data\tubes\tubes fix bgt\parent.cpp
+	"parent.h"
+	<iostream>
+
+1490791759 f:\semester 2\struktur data\tubes\tubes fix bgt\parent.h
+	<iostream>
+
+1490791876 source:f:\semester 2\struktur data\tubes\tubes fix bgt\child.cpp
+	"child.h"
+
+1490791876 f:\semester 2\struktur data\tubes\tubes fix bgt\child.h
+	<iostream>
+
+1490792001 source:f:\semester 2\struktur data\tubes\tubes fix bgt\relasi.cpp
+	"relasi.h"
+	<iostream>
+
+1490792001 f:\semester 2\struktur data\tubes\tubes fix bgt\relasi.h
+	"parent.h"
+	"child.h"
+	<iostream>
+
+1490792266 source:f:\semester 2\struktur data\tubes\tubes fix bgt\aplikasi.cpp
+	<iostream>
+	"aplikasi.h"
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1490792130 f:\semester 2\struktur data\tubes\tubes fix bgt\aplikasi.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"child.h"
+	"parent.h"
+	"relasi.h"
+
